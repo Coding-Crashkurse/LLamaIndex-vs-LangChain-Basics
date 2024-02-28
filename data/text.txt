@@ -1,0 +1,20 @@
+Q: What makes our pizza unique?
+A: Our pizzas are made with a secret family recipe for the dough, hand-tossed, and topped with fresh, locally-sourced ingredients. We use a traditional wood-fired oven to give our pizzas a distinctive smoky flavor and crisp crust.
+
+Q: Do we offer gluten-free pizza options?
+A: Yes, we offer a delicious gluten-free crust option for our guests with dietary restrictions or preferences.
+
+Q: Can customers create their own pizza?
+A: Absolutely! Customers can choose from a variety of fresh toppings to create their own unique pizza masterpiece.
+
+Q: What are our most popular pizzas?
+A: Our most popular pizzas include the Classic Margherita, Pepperoni Supreme, and the Gourmet Vegetarian. Each offers a unique blend of flavors that cater to a variety of tastes.
+
+Q: Do we offer vegan pizza options?
+A: Yes, we have vegan pizza options which include dairy-free cheese and a variety of fresh vegetable toppings.
+
+Q: How long does it take to prepare a pizza?
+A: On average, it takes about 15-20 minutes from the time you order until your pizza is ready. This time ensures that each pizza is cooked to perfection.
+
+Q: Can customers order pizza for delivery?
+A: Yes, we offer delivery services within a certain radius of our restaurant, ensuring that you can enjoy our pizzas from the comfort of your home.
